@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/shift-picker
+/.vscode
+/bin/Debug
+/obj
+/shift-picker.csproj.user
